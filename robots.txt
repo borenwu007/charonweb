@@ -1,0 +1,17 @@
+# robots.txt generated at http://www.51240.com
+User-agent: Googlebot
+Disallow: 
+User-agent: MSNBot
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: Teoma
+Disallow: 
+User-agent: twiceler
+Disallow: 
+User-agent: Gigabot
+Disallow: 
+User-agent: baiduspider
+Disallow: 
+User-agent: *
+Disallow: 
